@@ -1,5 +1,5 @@
 context:
-  version: "1.0.1"
+  version: "1.1.0"
 
 package:
   name: aresys-io
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://files.pythonhosted.org/packages/source/a/aresys-io/aresys_io-${{ version }}.tar.gz
-    sha256: 9a311959a61dc26886f23e73c699551445c8197b02d6e274be312cae1fa6e560
+    sha256: 5478603fc03ef06e208f9c478514135fa3c229db10af5da65c55b1b55a65783f
 
 build:
   number: 0
